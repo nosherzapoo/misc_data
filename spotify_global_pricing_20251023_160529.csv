@@ -1,0 +1,516 @@
+Country,Plan_Name,Standard_Price_Clean,Promo_Price_Clean,Currency,Link
+United States,Individual,11.99,0,USD,https://www.spotify.com/us/premium/
+United States,Student,5.99,0,USD,https://www.spotify.com/us/premium/
+United States,Duo,16.99,,USD,https://www.spotify.com/us/premium/
+United States,Family,19.99,,USD,https://www.spotify.com/us/premium/
+Canada,Individual,12.69,0,CAD,https://www.spotify.com/ca/premium/
+Canada,Student,6.39,0,CAD,https://www.spotify.com/ca/premium/
+Canada,Duo,17.89,,CAD,https://www.spotify.com/ca/premium/
+Canada,Family,20.99,,CAD,https://www.spotify.com/ca/premium/
+Mexico,Individual,139,19,MXN,https://www.spotify.com/mx/premium/
+Mexico,Student,74,0,MXN,https://www.spotify.com/mx/premium/
+Mexico,Duo,189,,MXN,https://www.spotify.com/mx/premium/
+Mexico,Family,239,,MXN,https://www.spotify.com/mx/premium/
+United Kingdom,Individual,12.99,0,GBP,https://www.spotify.com/gb/premium/
+United Kingdom,Student,5.99,0,GBP,https://www.spotify.com/gb/premium/
+United Kingdom,Duo,17.99,,GBP,https://www.spotify.com/gb/premium/
+United Kingdom,Family,21.99,,GBP,https://www.spotify.com/gb/premium/
+Germany,Individual,12.99,2,EUR,https://www.spotify.com/de/premium/
+Germany,Student,6.99,1,EUR,https://www.spotify.com/de/premium/
+Germany,Duo,17.99,,EUR,https://www.spotify.com/de/premium/
+Germany,Family,21.99,,EUR,https://www.spotify.com/de/premium/
+France,Individual,12.14,0,EUR,https://www.spotify.com/fr/premium/
+France,Student,7.07,0,EUR,https://www.spotify.com/fr/premium/
+France,Duo,,17.20,EUR,https://www.spotify.com/fr/premium/
+France,Family,,21.24,EUR,https://www.spotify.com/fr/premium/
+Italy,Individual,11.99,0,EUR,https://www.spotify.com/it/premium/
+Italy,Student,6.49,0,EUR,https://www.spotify.com/it/premium/
+Italy,Duo,16.99,,EUR,https://www.spotify.com/it/premium/
+Italy,Family,20.99,,EUR,https://www.spotify.com/it/premium/
+Spain,Individual,11.99,0,EUR,https://www.spotify.com/es/premium/
+Spain,Student,6.49,0,EUR,https://www.spotify.com/es/premium/
+Spain,Duo,16.99,,EUR,https://www.spotify.com/es/premium/
+Spain,Family,20.99,,EUR,https://www.spotify.com/es/premium/
+Netherlands,Individual,12.99,0,EUR,https://www.spotify.com/nl/premium/
+Netherlands,Student,6.99,0,EUR,https://www.spotify.com/nl/premium/
+Netherlands,Duo,,17.99,EUR,https://www.spotify.com/nl/premium/
+Netherlands,Family,,21.99,EUR,https://www.spotify.com/nl/premium/
+Sweden,Individual,129,0,SEK,https://www.spotify.com/se/premium/
+Sweden,Student,70,0,SEK,https://www.spotify.com/se/premium/
+Sweden,Duo,189,,SEK,https://www.spotify.com/se/premium/
+Sweden,Family,219,,SEK,https://www.spotify.com/se/premium/
+Norway,Individual,139,0,NOK,https://www.spotify.com/no/premium/
+Norway,Student,75,0,NOK,https://www.spotify.com/no/premium/
+Norway,Duo,,189,NOK,https://www.spotify.com/no/premium/
+Norway,Family,,219,NOK,https://www.spotify.com/no/premium/
+Denmark,Individual,119,0,DKK,https://www.spotify.com/dk/premium/
+Denmark,Student,65,0,DKK,https://www.spotify.com/dk/premium/
+Denmark,Duo,169,,DKK,https://www.spotify.com/dk/premium/
+Denmark,Family,199,,DKK,https://www.spotify.com/dk/premium/
+Finland,Yksilö-Premium,12.99,1,EUR,https://www.spotify.com/fi/premium/
+Finland,Student,7.49,1,EUR,https://www.spotify.com/fi/premium/
+Finland,Duo,18.49,,EUR,https://www.spotify.com/fi/premium/
+Finland,Family,21.99,,EUR,https://www.spotify.com/fi/premium/
+Switzerland,Individual,15.95,1,CHF,https://www.spotify.com/ch/premium/
+Switzerland,Student,8.95,1,CHF,https://www.spotify.com/ch/premium/
+Switzerland,Duo,21.95,,CHF,https://www.spotify.com/ch/premium/
+Switzerland,Family,26.95,,CHF,https://www.spotify.com/ch/premium/
+Austria,Individual,12.99,2,EUR,https://www.spotify.com/at/premium/
+Austria,Student,6.99,1,EUR,https://www.spotify.com/at/premium/
+Austria,Duo,16.99,,EUR,https://www.spotify.com/at/premium/
+Austria,Family,20.99,,EUR,https://www.spotify.com/at/premium/
+Belgium,Individual,11.99,0,EUR,https://www.spotify.com/be/premium/
+Belgium,Student,6.99,0,EUR,https://www.spotify.com/be/premium/
+Belgium,Duo,,16.99,EUR,https://www.spotify.com/be/premium/
+Belgium,Family,,20.99,EUR,https://www.spotify.com/be/premium/
+Ireland,Individual,11.99,0,EUR,https://www.spotify.com/ie/premium/
+Ireland,Student,6.99,0,EUR,https://www.spotify.com/ie/premium/
+Ireland,Duo,16.99,,EUR,https://www.spotify.com/ie/premium/
+Ireland,Family,19.99,,EUR,https://www.spotify.com/ie/premium/
+Poland,Individual,23.99,0,PLN,https://www.spotify.com/pl/premium/
+Poland,Student,12.99,0,PLN,https://www.spotify.com/pl/premium/
+Poland,Duo,30.99,,PLN,https://www.spotify.com/pl/premium/
+Poland,Family,37.99,,PLN,https://www.spotify.com/pl/premium/
+Czech Republic,Individual,185,0,CZK,https://www.spotify.com/cz/premium/
+Czech Republic,Student,97,0,CZK,https://www.spotify.com/cz/premium/
+Czech Republic,Duo,249,,CZK,https://www.spotify.com/cz/premium/
+Czech Republic,Family,299,,CZK,https://www.spotify.com/cz/premium/
+Hungary,Individual,2190,0,HUF,https://www.spotify.com/hu/premium/
+Hungary,Student,1190,0,HUF,https://www.spotify.com/hu/premium/
+Hungary,Duo,3090,,HUF,https://www.spotify.com/hu/premium/
+Hungary,Family,3690,,HUF,https://www.spotify.com/hu/premium/
+Hungary,Family,4090,,HUF,https://www.spotify.com/hu/premium/
+Romania,Individual,26,0,RON,https://www.spotify.com/ro/premium/
+Romania,Student,14,0,RON,https://www.spotify.com/ro/premium/
+Romania,Duo,35,,RON,https://www.spotify.com/ro/premium/
+Romania,Family,42,,RON,https://www.spotify.com/ro/premium/
+Bulgaria,Individual,10.99,0,BGN,https://www.spotify.com/bg/premium/
+Bulgaria,Student,5.49,0,BGN,https://www.spotify.com/bg/premium/
+Bulgaria,Duo,15.49,,BGN,https://www.spotify.com/bg/premium/
+Bulgaria,Family,19.49,,BGN,https://www.spotify.com/bg/premium/
+Croatia,Individual,6.99,0,EUR,https://www.spotify.com/hr/premium/
+Croatia,Student,3.99,0,EUR,https://www.spotify.com/hr/premium/
+Croatia,Duo,9.99,,EUR,https://www.spotify.com/hr/premium/
+Croatia,Family,12.49,,EUR,https://www.spotify.com/hr/premium/
+Slovenia,Individual,6.99,0,EUR,https://www.spotify.com/si/premium/
+Slovenia,Student,3.99,0,EUR,https://www.spotify.com/si/premium/
+Slovenia,Duo,9.99,,EUR,https://www.spotify.com/si/premium/
+Slovenia,Family,12.49,,EUR,https://www.spotify.com/si/premium/
+Slovakia,Individual,6.99,0,EUR,https://www.spotify.com/sk-en/premium/
+Slovakia,Student,3.99,0,EUR,https://www.spotify.com/sk-en/premium/
+Slovakia,Duo,9.99,,EUR,https://www.spotify.com/sk-en/premium/
+Slovakia,Family,11.99,,EUR,https://www.spotify.com/sk-en/premium/
+Slovakia,Family,12.99,,EUR,https://www.spotify.com/sk-en/premium/
+Estonia,Individual,9.99,0,EUR,https://www.spotify.com/ee/premium/
+Estonia,Student,5.49,0,EUR,https://www.spotify.com/ee/premium/
+Estonia,Duo,12.99,,EUR,https://www.spotify.com/ee/premium/
+Estonia,Family,15.99,,EUR,https://www.spotify.com/ee/premium/
+Latvia,Individual,9.99,0,EUR,https://www.spotify.com/lv/premium/
+Latvia,Student,5.49,0,EUR,https://www.spotify.com/lv/premium/
+Latvia,Duo,12.99,,EUR,https://www.spotify.com/lv/premium/
+Latvia,Family,15.99,,EUR,https://www.spotify.com/lv/premium/
+Lithuania,Individual,8.99,0,EUR,https://www.spotify.com/lt/premium/
+Lithuania,Student,4.99,0,EUR,https://www.spotify.com/lt/premium/
+Lithuania,Duo,,11.99,EUR,https://www.spotify.com/lt/premium/
+Lithuania,Family,,14.99,EUR,https://www.spotify.com/lt/premium/
+Malta,Individual,8.99,0,EUR,https://www.spotify.com/mt/premium/
+Malta,Student,4.99,0,EUR,https://www.spotify.com/mt/premium/
+Malta,Duo,11.99,,EUR,https://www.spotify.com/mt/premium/
+Malta,Family,14.99,,EUR,https://www.spotify.com/mt/premium/
+Cyprus,Individual,8.99,0,EUR,https://www.spotify.com/cy/premium/
+Cyprus,Student,4.99,0,EUR,https://www.spotify.com/cy/premium/
+Cyprus,Duo,11.99,,EUR,https://www.spotify.com/cy/premium/
+Cyprus,Family,14.99,,EUR,https://www.spotify.com/cy/premium/
+Luxembourg,Individual,12.99,0,EUR,https://www.spotify.com/lu/premium/
+Luxembourg,Student,6.99,0,EUR,https://www.spotify.com/lu/premium/
+Luxembourg,Duo,,17.99,EUR,https://www.spotify.com/lu/premium/
+Luxembourg,Family,,21.99,EUR,https://www.spotify.com/lu/premium/
+Portugal,Individual,8.99,0,EUR,https://www.spotify.com/pt/premium/
+Portugal,Student,4.99,0,EUR,https://www.spotify.com/pt/premium/
+Portugal,Duo,11.99,,EUR,https://www.spotify.com/pt/premium/
+Portugal,Family,15.49,,EUR,https://www.spotify.com/pt/premium/
+Portugal,Family,16.99,,EUR,https://www.spotify.com/pt/premium/
+Greece,Individual,8.99,0,EUR,https://www.spotify.com/gr/premium/
+Greece,Student,4.99,0,EUR,https://www.spotify.com/gr/premium/
+Greece,Duo,11.99,,EUR,https://www.spotify.com/gr/premium/
+Greece,Family,14.99,,EUR,https://www.spotify.com/gr/premium/
+Japan,Standard,"1,080",2,JPY,https://www.spotify.com/jp/premium/
+Japan,Student,580,1,JPY,https://www.spotify.com/jp/premium/
+Japan,Duo,"1,480",,JPY,https://www.spotify.com/jp/premium/
+Japan,Family,"1,880",,JPY,https://www.spotify.com/jp/premium/
+South Korea,개인,"10,900",2,KRW,https://www.spotify.com/kr/premium/
+South Korea,듀오,"16,350",,KRW,https://www.spotify.com/kr/premium/
+South Korea,베이직,"7,900",,KRW,https://www.spotify.com/kr/premium/
+India,Individual,139,139,INR,https://www.spotify.com/in/premium/
+India,Student,69,69,INR,https://www.spotify.com/in/premium/
+India,Duo,179,179,INR,https://www.spotify.com/in/premium/
+India,Family,229,229,INR,https://www.spotify.com/in/premium/
+Pakistan,Individual,349,0,PKR,https://www.spotify.com/pk/premium/
+Pakistan,Student,175,0,PKR,https://www.spotify.com/pk/premium/
+Pakistan,Duo,449,,PKR,https://www.spotify.com/pk/premium/
+Pakistan,Family,579,,PKR,https://www.spotify.com/pk/premium/
+Bangladesh,Individual,219,0,BDT,https://www.spotify.com/bd/premium/
+Bangladesh,Student,109,0,BDT,https://www.spotify.com/bd/premium/
+Bangladesh,Duo,299,,BDT,https://www.spotify.com/bd/premium/
+Bangladesh,Family,379,,BDT,https://www.spotify.com/bd/premium/
+Sri Lanka,Individual,749,0,LKR,https://www.spotify.com/lk/premium/
+Sri Lanka,Student,375,0,LKR,https://www.spotify.com/lk/premium/
+Sri Lanka,Duo,969,,LKR,https://www.spotify.com/lk/premium/
+Sri Lanka,Family,"1,269",,LKR,https://www.spotify.com/lk/premium/
+Nepal,Individual,3.29,0,NPR,https://www.spotify.com/np/premium/
+Nepal,Student,1.69,0,NPR,https://www.spotify.com/np/premium/
+Nepal,Duo,4.49,,NPR,https://www.spotify.com/np/premium/
+Nepal,Family,5.79,,NPR,https://www.spotify.com/np/premium/
+Thailand,Individual,149,149,THB,https://www.spotify.com/th/premium/
+Thailand,Student,79,79,THB,https://www.spotify.com/th/premium/
+Thailand,Duo,209,209,THB,https://www.spotify.com/th/premium/
+Thailand,Family,249,249,THB,https://www.spotify.com/th/premium/
+Vietnam,Individual,65.000,65.000,VND,https://www.spotify.com/vn/premium/
+Vietnam,Student,33.000,33.000,VND,https://www.spotify.com/vn/premium/
+Malaysia,Individual,17.50,17.50,MYR,https://www.spotify.com/my/premium/
+Malaysia,Student,9.50,9.50,MYR,https://www.spotify.com/my/premium/
+Malaysia,Duo,24.50,24.50,MYR,https://www.spotify.com/my/premium/
+Malaysia,Family,27.90,,MYR,https://www.spotify.com/my/premium/
+Singapore,Individual,11.98,0,SGD,https://www.spotify.com/sg/premium/
+Singapore,Student,6.48,0,SGD,https://www.spotify.com/sg/premium/
+Singapore,Duo,16.98,,SGD,https://www.spotify.com/sg/premium/
+Singapore,Family,20.98,,SGD,https://www.spotify.com/sg/premium/
+Indonesia,Individual,59.900,59.900,IDR,https://www.spotify.com/id/premium/
+Indonesia,Student,29.900,29.900,IDR,https://www.spotify.com/id/premium/
+Indonesia,Duo,79.900,79.900,IDR,https://www.spotify.com/id/premium/
+Philippines,Individual,169,169,PHP,https://www.spotify.com/ph/premium/
+Philippines,Student,85,85,PHP,https://www.spotify.com/ph/premium/
+Philippines,Duo,229,229,PHP,https://www.spotify.com/ph/premium/
+Philippines,Family,279,279,PHP,https://www.spotify.com/ph/premium/
+Hong Kong,Individual,78,2,HKD,https://www.spotify.com/hk/premium/
+Hong Kong,Student,48,1,HKD,https://www.spotify.com/hk/premium/
+Hong Kong,Duo,98,,HKD,https://www.spotify.com/hk/premium/
+Hong Kong,Family,128,,HKD,https://www.spotify.com/hk/premium/
+Taiwan,Individual,168,2,TWD,https://www.spotify.com/tw/premium/
+Taiwan,Student,88,1,TWD,https://www.spotify.com/tw/premium/
+Taiwan,Duo,228,,TWD,https://www.spotify.com/tw/premium/
+Taiwan,Family,298,,TWD,https://www.spotify.com/tw/premium/
+Australia,Individual,15.99,0,AUD,https://www.spotify.com/au/premium/
+Australia,Student,7.99,0,AUD,https://www.spotify.com/au/premium/
+Australia,Duo,22.99,,AUD,https://www.spotify.com/au/premium/
+Australia,Family,27.99,,AUD,https://www.spotify.com/au/premium/
+New Zealand,Individual,18.99,0,NZD,https://www.spotify.com/nz/premium/
+New Zealand,Student,10.49,0,NZD,https://www.spotify.com/nz/premium/
+New Zealand,Duo,25.49,,NZD,https://www.spotify.com/nz/premium/
+New Zealand,Family,29.99,,NZD,https://www.spotify.com/nz/premium/
+United Arab Emirates,Individual,23.99,0,AED,https://www.spotify.com/ae/premium/
+United Arab Emirates,Student,12.99,0,AED,https://www.spotify.com/ae/premium/
+United Arab Emirates,Duo,32.99,,AED,https://www.spotify.com/ae/premium/
+United Arab Emirates,Family,39.99,,AED,https://www.spotify.com/ae/premium/
+Saudi Arabia,Individual,٢٣,٠,SAR,https://www.spotify.com/sa/premium/
+Saudi Arabia,Student,١٢,٠,SAR,https://www.spotify.com/sa/premium/
+Saudi Arabia,Duo,,٣٢,SAR,https://www.spotify.com/sa/premium/
+Saudi Arabia,باقة العائلة,,٣٩,SAR,https://www.spotify.com/sa/premium/
+Qatar,Individual,19.99,0,QAR,https://www.spotify.com/qa/premium/
+Qatar,Student,9.99,0,QAR,https://www.spotify.com/qa/premium/
+Qatar,Duo,25.99,,QAR,https://www.spotify.com/qa/premium/
+Qatar,Family,31.99,,QAR,https://www.spotify.com/qa/premium/
+Kuwait,Individual,5.49,0,KWD,https://www.spotify.com/kw/premium/
+Kuwait,Student,2.99,0,KWD,https://www.spotify.com/kw/premium/
+Kuwait,Duo,7.49,,KWD,https://www.spotify.com/kw/premium/
+Kuwait,Family,9.49,,KWD,https://www.spotify.com/kw/premium/
+Bahrain,Individual,5.49,0,BHD,https://www.spotify.com/bh/premium/
+Bahrain,Student,2.99,0,BHD,https://www.spotify.com/bh/premium/
+Bahrain,Duo,7.49,,BHD,https://www.spotify.com/bh/premium/
+Bahrain,Family,9.49,,BHD,https://www.spotify.com/bh/premium/
+Oman,Individual,٥,٠,OMR,https://www.spotify.com/om/premium/
+Oman,اشتراك الطلاب,٢,٠,OMR,https://www.spotify.com/om/premium/
+Oman,Duo,,٧,OMR,https://www.spotify.com/om/premium/
+Oman,Family,,٩,OMR,https://www.spotify.com/om/premium/
+Jordan,Individual,٥,٠,JOD,https://www.spotify.com/jo/premium/
+Jordan,اشتراك الطلاب,٢,٠,JOD,https://www.spotify.com/jo/premium/
+Jordan,Duo,,٧,JOD,https://www.spotify.com/jo/premium/
+Jordan,Family,,٩,JOD,https://www.spotify.com/jo/premium/
+Lebanon,Individual,5.49,0,LBP,https://www.spotify.com/lb/premium/
+Lebanon,Student,2.99,0,LBP,https://www.spotify.com/lb/premium/
+Lebanon,Duo,7.49,,LBP,https://www.spotify.com/lb/premium/
+Lebanon,Family,9.49,,LBP,https://www.spotify.com/lb/premium/
+Egypt,Individual,٦٩,٠,EGP,https://www.spotify.com/eg/premium/
+Egypt,Student,٣٤,٠,EGP,https://www.spotify.com/eg/premium/
+Egypt,Duo,,٨٩,EGP,https://www.spotify.com/eg/premium/
+Egypt,Family,,١٠٩,EGP,https://www.spotify.com/eg/premium/
+Morocco,Individual,45,0,MAD,https://www.spotify.com/ma/premium/
+Morocco,Student,23,23,MAD,https://www.spotify.com/ma/premium/
+Morocco,Duo,60,60,MAD,https://www.spotify.com/ma/premium/
+Morocco,Family,75,75,MAD,https://www.spotify.com/ma/premium/
+Tunisia,Individual,"12,50","12,50",TND,https://www.spotify.com/tn/premium/
+Tunisia,Student,"6,50",0,TND,https://www.spotify.com/tn/premium/
+Tunisia,Duo,"16,50","16,50",TND,https://www.spotify.com/tn/premium/
+Tunisia,Family,"19,90","19,90",TND,https://www.spotify.com/tn/premium/
+Algeria,Individual,"4,99",0,DZD,https://www.spotify.com/dz/premium/
+Algeria,Student,"2,49",0,DZD,https://www.spotify.com/dz/premium/
+Algeria,Duo,,"6,49",DZD,https://www.spotify.com/dz/premium/
+Algeria,Family,,"7,99",DZD,https://www.spotify.com/dz/premium/
+South Africa,Individual,"69,99",0,ZAR,https://www.spotify.com/za/premium/
+South Africa,Student,"37,99",0,ZAR,https://www.spotify.com/za/premium/
+South Africa,Duo,"94,99",,ZAR,https://www.spotify.com/za/premium/
+South Africa,Family,"119,99",,ZAR,https://www.spotify.com/za/premium/
+Nigeria,Individual,"1,600","1,600",NGN,https://www.spotify.com/ng/premium/
+Nigeria,Student,800,0,NGN,https://www.spotify.com/ng/premium/
+Nigeria,Duo,"2,100",,NGN,https://www.spotify.com/ng/premium/
+Nigeria,Family,"2,500",,NGN,https://www.spotify.com/ng/premium/
+Kenya,Individual,339,0,KES,https://www.spotify.com/ke/premium/
+Kenya,Student,169,0,KES,https://www.spotify.com/ke/premium/
+Kenya,Duo,439,,KES,https://www.spotify.com/ke/premium/
+Kenya,Family,549,,KES,https://www.spotify.com/ke/premium/
+Ghana,Individual,22,0,GHS,https://www.spotify.com/gh/premium/
+Ghana,Student,11,0,GHS,https://www.spotify.com/gh/premium/
+Ghana,Duo,29,,GHS,https://www.spotify.com/gh/premium/
+Ghana,Family,37,,GHS,https://www.spotify.com/gh/premium/
+Uganda,Individual,"11,000",0,UGX,https://www.spotify.com/ug/premium/
+Uganda,Student,"5,500",0,UGX,https://www.spotify.com/ug/premium/
+Uganda,Duo,"15,000",,UGX,https://www.spotify.com/ug/premium/
+Uganda,Family,"19,000",,UGX,https://www.spotify.com/ug/premium/
+Tanzania,Individual,"7,500",0,TZS,https://www.spotify.com/tz/premium/
+Tanzania,Student,"4,000",0,TZS,https://www.spotify.com/tz/premium/
+Tanzania,Duo,"10,000",,TZS,https://www.spotify.com/tz/premium/
+Tanzania,Family,"13,000",,TZS,https://www.spotify.com/tz/premium/
+Ethiopia,Individual,3.29,0,ETB,https://www.spotify.com/et-en/premium/
+Ethiopia,Student,1.69,0,ETB,https://www.spotify.com/et-en/premium/
+Ethiopia,Duo,4.49,,ETB,https://www.spotify.com/et-en/premium/
+Ethiopia,Family,5.79,,ETB,https://www.spotify.com/et-en/premium/
+Brazil,Individual,"23,90","11,95",BRL,https://www.spotify.com/br/premium/
+Brazil,Student,"12,90",0,BRL,https://www.spotify.com/br/premium/
+Brazil,Duo,"31,90",,BRL,https://www.spotify.com/br/premium/
+Brazil,Family,"40,90",,BRL,https://www.spotify.com/br/premium/
+Argentina,Individual,3.299,1.650,ARS,https://www.spotify.com/ar/premium/
+Argentina,Student,1.799,0,ARS,https://www.spotify.com/ar/premium/
+Argentina,Duo,4.399,,ARS,https://www.spotify.com/ar/premium/
+Argentina,Family,5.499,,ARS,https://www.spotify.com/ar/premium/
+Chile,Individual,4.950,2.475,CLP,https://www.spotify.com/cl/premium/
+Chile,Student,2.700,0,CLP,https://www.spotify.com/cl/premium/
+Chile,Duo,6.750,,CLP,https://www.spotify.com/cl/premium/
+Chile,Family,8.250,,CLP,https://www.spotify.com/cl/premium/
+Colombia,Individual,18.500,9.250,COP,https://www.spotify.com/co/premium/
+Colombia,Student,10.100,0,COP,https://www.spotify.com/co/premium/
+Colombia,Duo,24.500,,COP,https://www.spotify.com/co/premium/
+Colombia,Family,30.500,,COP,https://www.spotify.com/co/premium/
+Peru,Individual,20.90,2.90,PEN,https://www.spotify.com/pe/premium/
+Peru,Student,11.90,0,PEN,https://www.spotify.com/pe/premium/
+Peru,Duo,26.90,,PEN,https://www.spotify.com/pe/premium/
+Peru,Family,32.90,,PEN,https://www.spotify.com/pe/premium/
+Ecuador,Individual,"6,99",0,USD,https://www.spotify.com/ec/premium/
+Ecuador,Student,"3,99",0,USD,https://www.spotify.com/ec/premium/
+Ecuador,Duo,"8,99",,USD,https://www.spotify.com/ec/premium/
+Ecuador,Family,"10,99",,USD,https://www.spotify.com/ec/premium/
+Venezuela,Individual,"6,49",0,VES,https://www.spotify.com/ve/premium/
+Venezuela,Student,"3,49",0,VES,https://www.spotify.com/ve/premium/
+Venezuela,Duo,"8,99",,VES,https://www.spotify.com/ve/premium/
+Venezuela,Family,"11,49",,VES,https://www.spotify.com/ve/premium/
+Uruguay,Individual,"8,99",0,UYU,https://www.spotify.com/uy/premium/
+Uruguay,Student,"4,99",0,UYU,https://www.spotify.com/uy/premium/
+Uruguay,Duo,"11,99",,UYU,https://www.spotify.com/uy/premium/
+Uruguay,Family,"14,99",,UYU,https://www.spotify.com/uy/premium/
+Paraguay,Individual,"5,99",0,PYG,https://www.spotify.com/py/premium/
+Paraguay,Student,"2,99",0,PYG,https://www.spotify.com/py/premium/
+Paraguay,Duo,"7,99",,PYG,https://www.spotify.com/py/premium/
+Paraguay,Family,"9,99",,PYG,https://www.spotify.com/py/premium/
+Bolivia,Individual,"6,49",0,BOB,https://www.spotify.com/bo/premium/
+Bolivia,Student,"3,49",0,BOB,https://www.spotify.com/bo/premium/
+Bolivia,Duo,"8,99",,BOB,https://www.spotify.com/bo/premium/
+Bolivia,Family,"11,49",,BOB,https://www.spotify.com/bo/premium/
+Guyana,Individual,6.49,0,GYD,https://www.spotify.com/gy/premium/
+Guyana,Student,3.49,0,GYD,https://www.spotify.com/gy/premium/
+Guyana,Duo,8.99,,GYD,https://www.spotify.com/gy/premium/
+Guyana,Family,11.49,,GYD,https://www.spotify.com/gy/premium/
+Suriname,Individual,6.49,0,SRD,https://www.spotify.com/sr/premium/
+Suriname,Student,3.49,0,SRD,https://www.spotify.com/sr/premium/
+Suriname,Duo,8.99,,SRD,https://www.spotify.com/sr/premium/
+Suriname,Family,11.49,,SRD,https://www.spotify.com/sr/premium/
+Jamaica,Individual,6.49,0,JMD,https://www.spotify.com/jm/premium/
+Jamaica,Student,3.49,0,JMD,https://www.spotify.com/jm/premium/
+Jamaica,Duo,8.99,,JMD,https://www.spotify.com/jm/premium/
+Jamaica,Family,11.49,,JMD,https://www.spotify.com/jm/premium/
+Trinidad and Tobago,Individual,6.49,0,TTD,https://www.spotify.com/tt/premium/
+Trinidad and Tobago,Student,3.49,0,TTD,https://www.spotify.com/tt/premium/
+Trinidad and Tobago,Duo,8.99,,TTD,https://www.spotify.com/tt/premium/
+Trinidad and Tobago,Family,11.49,,TTD,https://www.spotify.com/tt/premium/
+Barbados,Individual,6.49,0,BBD,https://www.spotify.com/bb/premium/
+Barbados,Student,3.49,0,BBD,https://www.spotify.com/bb/premium/
+Barbados,Duo,8.99,,BBD,https://www.spotify.com/bb/premium/
+Barbados,Family,11.49,,BBD,https://www.spotify.com/bb/premium/
+Grenada,Individual,6.49,0,XCD,https://www.spotify.com/gd/premium/
+Grenada,Student,3.49,0,XCD,https://www.spotify.com/gd/premium/
+Grenada,Duo,8.99,,XCD,https://www.spotify.com/gd/premium/
+Grenada,Family,11.49,,XCD,https://www.spotify.com/gd/premium/
+Saint Lucia,Individual,6.49,0,XCD,https://www.spotify.com/lc/premium/
+Saint Lucia,Student,3.49,0,XCD,https://www.spotify.com/lc/premium/
+Saint Lucia,Duo,8.99,,XCD,https://www.spotify.com/lc/premium/
+Saint Lucia,Family,11.49,,XCD,https://www.spotify.com/lc/premium/
+Saint Vincent and the Grenadines,Individual,6.49,0,XCD,https://www.spotify.com/vc/premium/
+Saint Vincent and the Grenadines,Student,3.49,0,XCD,https://www.spotify.com/vc/premium/
+Saint Vincent and the Grenadines,Duo,8.99,,XCD,https://www.spotify.com/vc/premium/
+Saint Vincent and the Grenadines,Family,11.49,,XCD,https://www.spotify.com/vc/premium/
+Antigua and Barbuda,Individual,6.49,0,XCD,https://www.spotify.com/ag/premium/
+Antigua and Barbuda,Student,3.49,0,XCD,https://www.spotify.com/ag/premium/
+Antigua and Barbuda,Duo,8.99,,XCD,https://www.spotify.com/ag/premium/
+Antigua and Barbuda,Family,11.49,,XCD,https://www.spotify.com/ag/premium/
+Saint Kitts and Nevis,Individual,6.49,0,XCD,https://www.spotify.com/kn/premium/
+Saint Kitts and Nevis,Student,3.49,0,XCD,https://www.spotify.com/kn/premium/
+Saint Kitts and Nevis,Duo,8.99,,XCD,https://www.spotify.com/kn/premium/
+Saint Kitts and Nevis,Family,11.49,,XCD,https://www.spotify.com/kn/premium/
+Dominica,Individual,6.49,0,XCD,https://www.spotify.com/dm/premium/
+Dominica,Student,3.49,0,XCD,https://www.spotify.com/dm/premium/
+Dominica,Duo,8.99,,XCD,https://www.spotify.com/dm/premium/
+Dominica,Family,11.49,,XCD,https://www.spotify.com/dm/premium/
+Haiti,Individual,"3,29",0,USD,https://www.spotify.com/ht/premium/
+Haiti,Student,"1,69",0,USD,https://www.spotify.com/ht/premium/
+Haiti,Duo,,"4,49",USD,https://www.spotify.com/ht/premium/
+Haiti,Family,,"5,79",USD,https://www.spotify.com/ht/premium/
+Dominican Republic,Individual,6.49,0,DOP,https://www.spotify.com/do/premium/
+Dominican Republic,Student,3.49,0,DOP,https://www.spotify.com/do/premium/
+Dominican Republic,Duo,8.99,,DOP,https://www.spotify.com/do/premium/
+Dominican Republic,Family,10.99,,DOP,https://www.spotify.com/do/premium/
+Dominican Republic,Family,11.99,,DOP,https://www.spotify.com/do/premium/
+Bahamas,Individual,6.49,0,BSD,https://www.spotify.com/bs/premium/
+Bahamas,Student,3.49,0,BSD,https://www.spotify.com/bs/premium/
+Bahamas,Duo,8.99,,BSD,https://www.spotify.com/bs/premium/
+Bahamas,Family,11.49,,BSD,https://www.spotify.com/bs/premium/
+Belize,Individual,6.49,0,BZD,https://www.spotify.com/bz/premium/
+Belize,Student,3.49,0,BZD,https://www.spotify.com/bz/premium/
+Belize,Duo,8.99,,BZD,https://www.spotify.com/bz/premium/
+Belize,Family,11.49,,BZD,https://www.spotify.com/bz/premium/
+Guatemala,Individual,6.49,0,GTQ,https://www.spotify.com/gt/premium/
+Guatemala,Student,3.49,0,GTQ,https://www.spotify.com/gt/premium/
+Guatemala,Duo,7.99,,GTQ,https://www.spotify.com/gt/premium/
+Guatemala,Family,9.99,,GTQ,https://www.spotify.com/gt/premium/
+El Salvador,Individual,6.49,0,USD,https://www.spotify.com/sv/premium/
+El Salvador,Student,3.49,0,USD,https://www.spotify.com/sv/premium/
+El Salvador,Duo,8.99,,USD,https://www.spotify.com/sv/premium/
+El Salvador,Family,11.99,,USD,https://www.spotify.com/sv/premium/
+Honduras,Individual,6.49,0,HNL,https://www.spotify.com/hn/premium/
+Honduras,Student,3.49,0,HNL,https://www.spotify.com/hn/premium/
+Honduras,Duo,8.99,,HNL,https://www.spotify.com/hn/premium/
+Honduras,Family,11.49,,HNL,https://www.spotify.com/hn/premium/
+Nicaragua,Individual,6.49,0,NIO,https://www.spotify.com/ni/premium/
+Nicaragua,Student,3.49,0,NIO,https://www.spotify.com/ni/premium/
+Nicaragua,Duo,8.99,,NIO,https://www.spotify.com/ni/premium/
+Nicaragua,Family,11.49,,NIO,https://www.spotify.com/ni/premium/
+Costa Rica,Individual,"6,99",0,CRC,https://www.spotify.com/cr/premium/
+Costa Rica,Student,"3,99",0,CRC,https://www.spotify.com/cr/premium/
+Costa Rica,Duo,"8,99",,CRC,https://www.spotify.com/cr/premium/
+Costa Rica,Family,"10,99",,CRC,https://www.spotify.com/cr/premium/
+Costa Rica,Family,"11,99",,CRC,https://www.spotify.com/cr/premium/
+Panama,Individual,6.99,0,PAB,https://www.spotify.com/pa/premium/
+Panama,Student,3.99,0,PAB,https://www.spotify.com/pa/premium/
+Panama,Duo,9.99,,PAB,https://www.spotify.com/pa/premium/
+Panama,Family,12.99,,PAB,https://www.spotify.com/pa/premium/
+Iceland,Individual,12.99,0,ISK,https://www.spotify.com/is/premium/
+Iceland,Student,7.49,0,ISK,https://www.spotify.com/is/premium/
+Iceland,Duo,18.49,,ISK,https://www.spotify.com/is/premium/
+Iceland,Family,21.99,,ISK,https://www.spotify.com/is/premium/
+Ukraine,Individual,4.99,0,UAH,https://www.spotify.com/ua/premium/
+Ukraine,Student,2.49,0,UAH,https://www.spotify.com/ua/premium/
+Ukraine,Duo,6.49,,UAH,https://www.spotify.com/ua/premium/
+Ukraine,Family,7.99,,UAH,https://www.spotify.com/ua/premium/
+Belarus,Individual,5.49,0,BYN,https://www.spotify.com/by-en/premium/
+Belarus,Student,2.99,0,BYN,https://www.spotify.com/by-en/premium/
+Belarus,Duo,7.49,,BYN,https://www.spotify.com/by-en/premium/
+Belarus,Family,9.49,,BYN,https://www.spotify.com/by-en/premium/
+Moldova,Individual,"5,49",0,MDL,https://www.spotify.com/md/premium/
+Moldova,Premium для студентов,"2,99",0,MDL,https://www.spotify.com/md/premium/
+Moldova,Premium для двоих,"7,49",,MDL,https://www.spotify.com/md/premium/
+Moldova,Premium для семьи,"9,49",,MDL,https://www.spotify.com/md/premium/
+Georgia,Individual,5.49,0,GEL,https://www.spotify.com/ge/premium/
+Georgia,Student,2.99,0,GEL,https://www.spotify.com/ge/premium/
+Georgia,Duo,7.49,,GEL,https://www.spotify.com/ge/premium/
+Georgia,Family,9.49,,GEL,https://www.spotify.com/ge/premium/
+Armenia,Individual,5.49,0,AMD,https://www.spotify.com/am/premium/
+Armenia,Student,2.99,0,AMD,https://www.spotify.com/am/premium/
+Armenia,Duo,7.49,,AMD,https://www.spotify.com/am/premium/
+Armenia,Family,9.49,,AMD,https://www.spotify.com/am/premium/
+Azerbaijan,Individual,"5,49",1,AZN,https://www.spotify.com/az/premium/
+Azerbaijan,Student,"2,99",1,AZN,https://www.spotify.com/az/premium/
+Azerbaijan,Duo,,"7,49",AZN,https://www.spotify.com/az/premium/
+Azerbaijan,Family,,"9,49",AZN,https://www.spotify.com/az/premium/
+Kazakhstan,Individual,"4,99",0,KZT,https://www.spotify.com/kz/premium/
+Kazakhstan,Premium для студентов,"2,49",0,KZT,https://www.spotify.com/kz/premium/
+Kazakhstan,Premium для двоих,"6,49",,KZT,https://www.spotify.com/kz/premium/
+Kazakhstan,Premium для семьи,"7,99",,KZT,https://www.spotify.com/kz/premium/
+Uzbekistan,Individual,5.49,0,UZS,https://www.spotify.com/uz/premium/
+Uzbekistan,Student,2.99,0,UZS,https://www.spotify.com/uz/premium/
+Uzbekistan,Duo,7.49,,UZS,https://www.spotify.com/uz/premium/
+Uzbekistan,Family,9.49,,UZS,https://www.spotify.com/uz/premium/
+Kyrgyzstan,Individual,"5,49",0,KGS,https://www.spotify.com/kg/premium/
+Kyrgyzstan,Premium для студентов,"2,99",0,KGS,https://www.spotify.com/kg/premium/
+Kyrgyzstan,Premium для двоих,"7,49",,KGS,https://www.spotify.com/kg/premium/
+Kyrgyzstan,Premium для семьи,"9,49",,KGS,https://www.spotify.com/kg/premium/
+Tajikistan,Individual,"5,49",0,TJS,https://www.spotify.com/tj/premium/
+Tajikistan,Premium для студентов,"2,99",0,TJS,https://www.spotify.com/tj/premium/
+Mongolia,Individual,5.49,0,MNT,https://www.spotify.com/mn/premium/
+Mongolia,Student,2.99,0,MNT,https://www.spotify.com/mn/premium/
+Mongolia,Duo,7.49,,MNT,https://www.spotify.com/mn/premium/
+Mongolia,Family,9.49,,MNT,https://www.spotify.com/mn/premium/
+Cambodia,Individual,3.29,0,KHR,https://www.spotify.com/kh/premium/
+Cambodia,Student,1.69,0,KHR,https://www.spotify.com/kh/premium/
+Cambodia,Duo,4.49,,KHR,https://www.spotify.com/kh/premium/
+Cambodia,Family,5.79,,KHR,https://www.spotify.com/kh/premium/
+Laos,Individual,3.29,0,LAK,https://www.spotify.com/la/premium/
+Laos,Student,1.69,0,LAK,https://www.spotify.com/la/premium/
+Laos,Duo,4.49,,LAK,https://www.spotify.com/la/premium/
+Laos,Family,5.79,,LAK,https://www.spotify.com/la/premium/
+Brunei,Individual,7.49,0,BND,https://www.spotify.com/bn/premium/
+Brunei,Student,3.99,0,BND,https://www.spotify.com/bn/premium/
+Brunei,Duo,10.49,,BND,https://www.spotify.com/bn/premium/
+Brunei,Family,12.99,,BND,https://www.spotify.com/bn/premium/
+Timor-Leste,Individual,5.49,0,USD,https://www.spotify.com/tl/premium/
+Timor-Leste,Student,2.99,0,USD,https://www.spotify.com/tl/premium/
+Timor-Leste,Duo,7.49,,USD,https://www.spotify.com/tl/premium/
+Timor-Leste,Family,9.49,,USD,https://www.spotify.com/tl/premium/
+Fiji,Individual,5.49,0,FJD,https://www.spotify.com/fj/premium/
+Fiji,Student,2.99,0,FJD,https://www.spotify.com/fj/premium/
+Fiji,Duo,7.49,,FJD,https://www.spotify.com/fj/premium/
+Fiji,Family,9.49,,FJD,https://www.spotify.com/fj/premium/
+Papua New Guinea,Individual,5.49,0,PGK,https://www.spotify.com/pg/premium/
+Papua New Guinea,Student,2.99,0,PGK,https://www.spotify.com/pg/premium/
+Papua New Guinea,Duo,7.49,,PGK,https://www.spotify.com/pg/premium/
+Papua New Guinea,Family,9.49,,PGK,https://www.spotify.com/pg/premium/
+Solomon Islands,Individual,5.49,0,SBD,https://www.spotify.com/sb/premium/
+Solomon Islands,Student,2.99,0,SBD,https://www.spotify.com/sb/premium/
+Solomon Islands,Duo,7.49,,SBD,https://www.spotify.com/sb/premium/
+Solomon Islands,Family,9.49,,SBD,https://www.spotify.com/sb/premium/
+Vanuatu,Individual,5.49,0,VUV,https://www.spotify.com/vu/premium/
+Vanuatu,Student,2.99,0,VUV,https://www.spotify.com/vu/premium/
+Vanuatu,Duo,7.49,,VUV,https://www.spotify.com/vu/premium/
+Vanuatu,Family,9.49,,VUV,https://www.spotify.com/vu/premium/
+Tonga,Individual,5.49,0,TOP,https://www.spotify.com/to/premium/
+Tonga,Student,2.99,0,TOP,https://www.spotify.com/to/premium/
+Tonga,Duo,7.49,,TOP,https://www.spotify.com/to/premium/
+Tonga,Family,9.49,,TOP,https://www.spotify.com/to/premium/
+Samoa,Individual,5.49,0,WST,https://www.spotify.com/ws/premium/
+Samoa,Student,2.99,0,WST,https://www.spotify.com/ws/premium/
+Samoa,Duo,7.49,,WST,https://www.spotify.com/ws/premium/
+Samoa,Family,9.49,,WST,https://www.spotify.com/ws/premium/
+Kiribati,Individual,12.99,0,AUD,https://www.spotify.com/ki/premium/
+Kiribati,Student,6.99,0,AUD,https://www.spotify.com/ki/premium/
+Kiribati,Duo,17.99,,AUD,https://www.spotify.com/ki/premium/
+Kiribati,Family,22.49,,AUD,https://www.spotify.com/ki/premium/
+Tuvalu,Individual,12.99,0,AUD,https://www.spotify.com/tv/premium/
+Tuvalu,Student,6.99,0,AUD,https://www.spotify.com/tv/premium/
+Tuvalu,Duo,17.99,,AUD,https://www.spotify.com/tv/premium/
+Tuvalu,Family,22.49,,AUD,https://www.spotify.com/tv/premium/
+Nauru,Individual,12.99,0,AUD,https://www.spotify.com/nr/premium/
+Nauru,Student,6.99,0,AUD,https://www.spotify.com/nr/premium/
+Nauru,Duo,17.99,,AUD,https://www.spotify.com/nr/premium/
+Nauru,Family,22.49,,AUD,https://www.spotify.com/nr/premium/
+Palau,Individual,10.99,0,USD,https://www.spotify.com/pw/premium/
+Palau,Student,5.49,0,USD,https://www.spotify.com/pw/premium/
+Palau,Duo,14.99,,USD,https://www.spotify.com/pw/premium/
+Palau,Family,18.99,,USD,https://www.spotify.com/pw/premium/
+Marshall Islands,Individual,10.99,0,USD,https://www.spotify.com/mh/premium/
+Marshall Islands,Student,5.49,0,USD,https://www.spotify.com/mh/premium/
+Marshall Islands,Duo,14.99,,USD,https://www.spotify.com/mh/premium/
+Marshall Islands,Family,18.99,,USD,https://www.spotify.com/mh/premium/
+Micronesia,Individual,5.49,0,USD,https://www.spotify.com/fm/premium/
+Micronesia,Student,2.99,0,USD,https://www.spotify.com/fm/premium/
+Micronesia,Duo,7.49,,USD,https://www.spotify.com/fm/premium/
+Micronesia,Family,9.49,,USD,https://www.spotify.com/fm/premium/
+Curaçao,Individual,6.49,0,ANG,https://www.spotify.com/cw/premium/
+Curaçao,Student,3.49,0,ANG,https://www.spotify.com/cw/premium/
+Curaçao,Duo,8.99,,ANG,https://www.spotify.com/cw/premium/
+Curaçao,Family,11.49,,ANG,https://www.spotify.com/cw/premium/
