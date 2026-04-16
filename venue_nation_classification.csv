@@ -1,0 +1,301 @@
+venue_name,venue_city,venue_type,is_venue_nation,vn_status,confidence,rationale,primary_source,secondary_sources,last_verified
+Madison Square Garden,"New York, NY",Arena,False,Third-party,High,Seed list third-party entry: Owned by MSG Entertainment Corp (separate listed entity).,seed_known_venues.yaml,,2026-04-16
+The Kia Forum,"Los Angeles, CA",Arena,False,Third-party,High,Seed list third-party entry: Kroenke.,seed_known_venues.yaml,,2026-04-16
+Arizona Financial Theatre,"Phoenix, AZ",Theater,True,LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007),High,Listed on en.wikipedia.org as LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Arizona_Financial_Theatre,,2026-04-16
+Climate Pledge Arena,"Seattle, WA",Arena,False,Third-party,High,Seed list third-party entry: OVG operated; Kraken/Climate Pledge owned.,seed_known_venues.yaml,,2026-04-16
+TD Garden,"Boston, MA",Arena,False,Third-party,High,Seed list third-party entry: Owned by Delaware North / Bruins.,seed_known_venues.yaml,,2026-04-16
+MGM Music Hall at Fenway,"Boston, MA",Theater,True,LN/Fenway JV,High,Seed list entry — treated as human-verified ground truth per task brief (LN/Fenway JV).,seed_known_venues.yaml,,2026-04-16
+Moody Center,"Austin, TX",Arena,False,Third-party,High,Seed list third-party entry: OVG operated; UT Austin owned.,seed_known_venues.yaml,,2026-04-16
+United Center,"Chicago, IL",Arena,False,Third-party,High,Seed list third-party entry: Owned by Bulls/Blackhawks JV.,seed_known_venues.yaml,,2026-04-16
+RBC Amphitheatre,"Toronto, ON",Amphitheater,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+The Pavilion at Toyota Music Factory,"Irving, TX",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Pine Knob Music Theatre,"Clarkston, MI",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Coca-Cola Roxy,"Atlanta, GA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Kia Center,"Orlando, FL",Arena,False,Third-party,High,Seed list third-party entry: Owned by City of Orlando; Magic operated.,seed_known_venues.yaml,,2026-04-16
+State Farm Arena,"Atlanta, GA",Arena,False,Third-party,High,Seed list third-party entry: Owned by Atlanta Hawks.,seed_known_venues.yaml,,2026-04-16
+Bell Centre,"Montreal, QC",Arena,False,Third-party,High,Seed list third-party entry: Owned by Groupe CH / Canadiens.,seed_known_venues.yaml,,2026-04-16
+Brooklyn Paramount,"Brooklyn, NY",Theater,True,LN operated (reopened 2024),High,Seed list entry — treated as human-verified ground truth per task brief (LN operated (reopened 2024)).,seed_known_venues.yaml,,2026-04-16
+Ruoff Music Center,"Noblesville, IN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Scotiabank Arena,"Toronto, ON",Arena,False,Third-party,High,Seed list third-party entry: Owned by MLSE.,seed_known_venues.yaml,,2026-04-16
+The O2,"London, UK",Arena,False,Third-party,High,Seed list third-party entry: Owned by AEG.,seed_known_venues.yaml,,2026-04-16
+Xfinity Center,"Mansfield, MA",Arena,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Fillmore Auditorium,"Denver, CO",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Kaseya Center,"Miami, FL",Arena,False,Third-party,High,Seed list third-party entry: Owned by Miami Heat.,seed_known_venues.yaml,,2026-04-16
+Little Caesars Arena,"Detroit, MI",Theater,False,Third-party,High,Seed list third-party entry: Owned by Olympia Entertainment / Ilitch.,seed_known_venues.yaml,,2026-04-16
+Morton Amphitheater,"Kansas City, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+PNC Bank Arts Center,"Holmdel, NJ",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Bridgestone Arena,"Nashville, TN",Arena,False,Third-party,High,Seed list third-party entry: Owned by Predators.,seed_known_venues.yaml,,2026-04-16
+Riverbend Music Center,"Cincinnati, OH",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Rogers Arena,"Vancouver, BC",Arena,False,Third-party,High,Seed list third-party entry: Owned by Aquilini / Canucks.,seed_known_venues.yaml,,2026-04-16
+Xfinity Mobile Arena,"Philadelphia, PA",Arena,False,Third-party,High,Seed list third-party entry: Comcast Spectacor; renamed Wells Fargo Center.,seed_known_venues.yaml,,2026-04-16
+Ball Arena,"Denver, CO",Arena,False,Third-party,High,Seed list third-party entry: Owned by Kroenke Sports & Entertainment.,seed_known_venues.yaml,,2026-04-16
+Jiffy Lube Live,"Bristow, VA",Amphitheater,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Northwell at Jones Beach Theater,"Wantagh, NY",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Blossom Music Center,"Cuyahoga Falls, OH",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Red Rocks Amphitheatre,"Morrison, CO",Amphitheater,False,Third-party,High,Seed list third-party entry: Owned by City of Denver.,seed_known_venues.yaml,,2026-04-16
+The Armory,"Minneapolis, MN",Theater,False,Third-party,High,Seed list third-party entry: Minneapolis — owned by Minneapolis Venue Management.,seed_known_venues.yaml,,2026-04-16
+The Fillmore Detroit,"Detroit, MI",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Met Philadelphia presented by Highmark,"Philadelphia, PA",Theater,True,LN operated (under lease from Eric Blumenfeld),High,Listed on en.wikipedia.org as LN operated (under lease from Eric Blumenfeld); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Met_Philadelphia,,2026-04-16
+Credit Union 1 Amphitheatre,"Tinley Park, IL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Hollywood Casino Amphitheater,"St. Louis, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+MIDFLORIDA Credit Union Amphitheatre,"Tampa, FL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Talking Stick Resort Amphitheatre,"Phoenix, AZ",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Masonic,"San Francisco, CA",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Freedom Mortgage Pavilion,"Camden, NJ",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Truliant Amphitheater,"Charlotte, NC",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Chase Center,"San Francisco, CA",Arena,False,Third-party,High,Seed list third-party entry: Owned by Warriors.,seed_known_venues.yaml,,2026-04-16
+Mystic Lake Amphitheater,"Shakopee, MN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Anthem,"Washington, DC",Club,False,Third-party,High,"Seed list third-party entry: IMP operated, not LN.",seed_known_venues.yaml,,2026-04-16
+Ameris Bank Amphitheatre,"Alpharetta, GA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+BankNH Pavilion,"Gilford, NH",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Barclays Center,"Brooklyn, NY",Arena,False,Third-party,High,Seed list third-party entry: Owned by BSE Global / Nets.,seed_known_venues.yaml,,2026-04-16
+iTHINK Financial Amphitheatre,"West Palm Beach, FL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+WAMU Theater,"Seattle, WA",Theater,False,Third-party,High,Seed list third-party entry: Part of Lumen Field complex; First & Goal operated (Seattle Seahawks).,seed_known_venues.yaml,,2026-04-16
+Albany Med Health System at SPAC,"Saratoga Springs, NY",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Coastal Credit Union Music Park at Walnut Creek,"Raleigh, NC",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Dos Equis Pavilion,"Dallas, TX",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Wiltern,"Los Angeles, CA",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Walmart AMP,"Rogers, AR",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Fox Theatre,"Detroit, MI",Theater,False,Third-party,High,Seed list third-party entry: Owned by Olympia Entertainment (Ilitch); operated by 313 Presents (Detroit location).,seed_known_venues.yaml,,2026-04-16
+Isleta Amphitheater,"Albuquerque, NM",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore Charlotte,"Charlotte, NC",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Pavilion at Star Lake,"Burgettstown, PA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Danforth Music Hall,"Toronto, ON",Theater,False,Third-party,High,Seed list third-party entry: Independent operator — Embrace Presents.,seed_known_venues.yaml,,2026-04-16
+Empower Federal Credit Union Amphitheater at Lakeview,"Syracuse, NY",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+HISTORY,"Toronto, ON",Club,True,LN Canada/Drake joint venture (opened Nov 2021),High,Listed on www.livenationentertainment.com as LN Canada/Drake joint venture (opened Nov 2021); bulk-extracted from canonical source.,https://www.livenationentertainment.com/2021/11/drake-and-live-nations-music-venue-history-opens-its-doors-in-toronto-november-7/,,2026-04-16
+Merriweather Post Pavilion,"Columbia, MD",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+North Island Credit Union Amphitheatre,"Chula Vista, CA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+San Jose Civic,"San Jose, CA",Theater,False,Third-party,High,"Seed list third-party entry: Owned by City of San Jose; booked by Nederlander Concerts, not LN.",seed_known_venues.yaml,,2026-04-16
+Tabernacle,"Atlanta, GA",Theater,True,LN owned (via SFX Entertainment acquisition 1999),High,Listed on en.wikipedia.org as LN owned (via SFX Entertainment acquisition 1999); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Tabernacle_(concert_hall),,2026-04-16
+Target Center,"Minneapolis, MN",Arena,False,Third-party,High,Seed list third-party entry: Owned by City of Minneapolis.,seed_known_venues.yaml,,2026-04-16
+TD Coliseum,"Hamilton, ON",Arena,True,LN Canada operated (refurb 2025),High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated (refurb 2025)).,seed_known_venues.yaml,,2026-04-16
+The Fillmore Philadelphia,"Philadelphia, PA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Van Buren,"Phoenix, AZ",Theater,True,LN owned (acquired from Charlie Levy April 2021),High,Listed on en.wikipedia.org as LN owned (acquired from Charlie Levy April 2021); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Van_Buren,,2026-04-16
+Cal Coast Credit Union Open Air Theatre,"San Diego, CA",Theater,False,Third-party,High,Seed list third-party entry: Owned and operated by San Diego State University.,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Houston, TX",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+MTELUS,"Montreal, QC",Theater,True,Evenko operated (LN Canada/Evenko subsidiary),High,Listed on en.wikipedia.org as Evenko operated (LN Canada/Evenko subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/MTelus,,2026-04-16
+Radio City Music Hall,"New York, NY",Theater,False,Third-party,High,Seed list third-party entry: Owned by MSG Entertainment.,seed_known_venues.yaml,,2026-04-16
+Shoreline Amphitheatre,"Mountain View, CA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Darien Lake Amphitheater,"Darien Center, NY",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Fillmore Miami Beach At Jackie Gleason Theatre,"Miami Beach, FL",Theater,True,LN operated (venue owned by Greater Miami Convention & Visitors Bureau),High,Listed on en.wikipedia.org as LN operated (venue owned by Greater Miami Convention & Visitors Bureau); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Fillmore_Miami_Beach,,2026-04-16
+Greek Theatre,"Los Angeles, CA",Amphitheater,False,Third-party,High,Seed list third-party entry: City of LA / Nederlander.,seed_known_venues.yaml,,2026-04-16
+Ryman Auditorium,"Nashville, TN",Theater,False,Third-party,High,Seed list third-party entry: Owned and operated by Ryman Hospitality Properties / Opry Entertainment Group.,seed_known_venues.yaml,,2026-04-16
+The Fillmore Silver Spring,"Silver Spring, MD",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Coca-Cola Coliseum,"Toronto, ON",Arena,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+Crypto.com Arena,"Los Angeles, CA",Arena,False,Third-party,High,Seed list third-party entry: Owned by AEG / Lakers.,seed_known_venues.yaml,,2026-04-16
+Everwise Amphitheater at White River State Park,"Indianapolis, IN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Hard Rock Live,"Hollywood, FL",Theater,False,Third-party,High,Seed list third-party entry: Hard Rock International — not LN.,seed_known_venues.yaml,,2026-04-16
+Leader Bank Pavilion,"Boston, MA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Massey Hall,"Toronto, ON",Theater,False,Third-party,High,Seed list third-party entry: Corporation of Massey Hall and Roy Thomson Hall — non-profit.,seed_known_venues.yaml,,2026-04-16
+Paramount Theatre,"Seattle, WA",Theater,False,Third-party,High,Seed list third-party entry: Seattle Theatre Group owns/operates (non-profit); Wilson Center Paramount Theatre Aurora is separate.,seed_known_venues.yaml,,2026-04-16
+The Fillmore Minneapolis,"Minneapolis, MN",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+3Arena,"Dublin, IE",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+AFAS Live,"Amsterdam, NL",Club,True,LN operated (venue owned by Government of Amsterdam),High,Listed on en.wikipedia.org as LN operated (venue owned by Government of Amsterdam); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/AFAS_Live,,2026-04-16
+Ascend Amphitheater,"Nashville, TN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Coca-Cola Amphitheater,"Birmingham, AL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Germania Insurance Amphitheater,"Austin, TX",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Dallas, TX",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+Rocket Arena,"Cleveland, OH",Arena,False,Third-party,High,Seed list third-party entry: Owned by Rock Entertainment / Cavs.,seed_known_venues.yaml,,2026-04-16
+Rogers Stadium,"Toronto, ON",Stadium,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+Smart Financial Centre at Sugar Land,"Houston, TX",Theater,False,Third-party,High,Seed list third-party entry: Owned by City of Sugar Land; operated by ASM Global.,seed_known_venues.yaml,,2026-04-16
+T-Mobile Arena,"Las Vegas, NV",Arena,False,Third-party,High,Seed list third-party entry: Owned by MGM Resorts / AEG.,seed_known_venues.yaml,,2026-04-16
+The Criterion,"Oklahoma City, OK",Theater,False,Third-party,High,Seed list third-party entry: Oklahoma City — independent (Levelland Productions).,seed_known_venues.yaml,,2026-04-16
+The Sylvee,"Madison, WI",Club,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Toyota Amphitheatre,"Wheatland, CA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+White River Amphitheatre,"Auburn, WA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+YouTube Theater,"Inglewood, CA",Theater,False,Third-party,High,Seed list third-party entry: Part of SoFi Stadium / Hollywood Park complex; operated by ASM Global / Kroenke.,seed_known_venues.yaml,,2026-04-16
+Allegiant Stadium,"Las Vegas, NV",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Las Vegas Stadium Authority; ASM Global operated.,seed_known_venues.yaml,,2026-04-16
+Cascades Amphitheater,"Ridgefield, WA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Enterprise Center,"St. Louis, MO",Arena,False,Third-party,High,Seed list third-party entry: Owned by St. Louis Blues.,seed_known_venues.yaml,,2026-04-16
+Fiserv Forum,"Milwaukee, WI",Arena,False,Third-party,High,Seed list third-party entry: Owned by Bucks / Milwaukee Bucks Stadium Corp.,seed_known_venues.yaml,,2026-04-16
+Hersheypark Stadium,"Hershey, PA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Hershey Entertainment & Resorts.,seed_known_venues.yaml,,2026-04-16
+Hollywood Palladium,"Los Angeles, CA",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+MetLife Stadium,"East Rutherford, NJ",Stadium,False,Third-party,High,Seed list third-party entry: Giants/Jets.,seed_known_venues.yaml,,2026-04-16
+PNC Music Pavilion,"Charlotte, NC",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Warner Theatre,"Washington, DC",Theater,True,LN operated (owned by CBRE Global Investors since 2018),High,Listed on en.wikipedia.org as LN operated (owned by CBRE Global Investors since 2018); bulk-extracted from canonical source.,"https://en.wikipedia.org/wiki/Warner_Theatre_(Washington,_D.C.)",,2026-04-16
+Wembley Stadium Connected by EE,"London, UK",Stadium,False,Third-party,High,Seed list third-party entry: Same as Wembley.,seed_known_venues.yaml,,2026-04-16
+Amerant Bank Arena,"Sunrise, FL",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Beacon Theatre,"New York, NY",Theater,False,Third-party,High,Seed list third-party entry: Owned by MSG Entertainment.,seed_known_venues.yaml,,2026-04-16
+Estadio GNP Seguros,"Mexico City, MX",Stadium,True,OCESA operated (LN 75%),High,Seed list entry — treated as human-verified ground truth per task brief (OCESA operated (LN 75%)).,seed_known_venues.yaml,,2026-04-16
+Eventim Apollo,"London, UK",Theater,False,Third-party,High,Seed list third-party entry: AEG Presents + CTS Eventim jointly acquired May 2012 (Wikipedia).,seed_known_venues.yaml,,2026-04-16
+Fox Theatre,"Atlanta, GA",Theater,False,Third-party,High,Seed list third-party entry: Owned by Olympia Entertainment (Ilitch); operated by 313 Presents (Detroit location).,seed_known_venues.yaml,,2026-04-16
+Hard Rock Live,"Orlando, FL",Theater,False,Third-party,High,Seed list third-party entry: Hard Rock International — not LN.,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Chicago, IL",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Anaheim, CA",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+Raymond James Stadium,"Tampa, FL",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Tampa Sports Authority.,seed_known_venues.yaml,,2026-04-16
+Royal Arena,"Copenhagen, DK",Arena,True,LN owned (acquired Dec 2025),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (acquired Dec 2025)).,seed_known_venues.yaml,,2026-04-16
+The O2 Arena,"London, UK",Arena,False,Third-party,High,Seed list third-party entry: AEG-owned London arena.,seed_known_venues.yaml,,2026-04-16
+YouTube Theater,"Los Angeles, CA",Theater,False,Third-party,High,Seed list third-party entry: Part of SoFi Stadium / Hollywood Park complex; operated by ASM Global / Kroenke.,seed_known_venues.yaml,,2026-04-16
+3Arena,"Dublin, Ireland",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Budweiser Stage,"Toronto, ON",Amphitheater,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+Delta Center,"Salt Lake City, UT",Arena,False,Third-party,High,Seed list third-party entry: Owned by SEG / Jazz.,seed_known_venues.yaml,,2026-04-16
+Greek Theatre,"Berkeley, CA",Amphitheater,False,Third-party,High,Seed list third-party entry: City of LA / Nederlander.,seed_known_venues.yaml,,2026-04-16
+Hollywood Bowl,"Los Angeles, CA",Amphitheater,False,Third-party,High,Seed list third-party entry: Owned by County of Los Angeles.,seed_known_venues.yaml,,2026-04-16
+House of Blues Anaheim,"Anaheim, CA",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+O2 Academy Brixton,"London, UK",Theater,True,LN operated (Academy Music Group),High,Listed on en.wikipedia.org as LN operated (Academy Music Group); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+Palacio de los Deportes,"Mexico City, MX",Arena,True,OCESA operated (LN 75%),High,Listed on news.pollstar.com as OCESA operated (LN 75%); bulk-extracted from canonical source.,https://news.pollstar.com/2024/01/11/ocesa-chief-recaps-foro-sols-big-year/,,2026-04-16
+Paycom Center,"Oklahoma City, OK",Arena,False,Third-party,High,Seed list third-party entry: Owned by City of Oklahoma City.,seed_known_venues.yaml,,2026-04-16
+SoFi Stadium,"Los Angeles, CA",Stadium,False,Third-party,High,Seed list third-party entry: Kroenke Sports & Entertainment; ASM Global operated.,seed_known_venues.yaml,,2026-04-16
+The Met,"Philadelphia, PA",Theater,True,LN operated (under lease from Eric Blumenfeld),High,Listed on en.wikipedia.org as LN operated (under lease from Eric Blumenfeld); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Met_Philadelphia,,2026-04-16
+Allianz Amphitheater at Riverfront,"Richmond, VA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Bank of America Stadium,"Charlotte, NC",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Tepper Sports / Panthers.,seed_known_venues.yaml,,2026-04-16
+Ford Field,"Detroit, MI",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Detroit Lions.,seed_known_venues.yaml,,2026-04-16
+Hard Rock Live,"Wheatland, CA",Theater,False,Third-party,High,Seed list third-party entry: Hard Rock International — not LN.,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Cleveland, OH",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues Chicago,"Chicago, IL",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Lakewood Amphitheatre,"Atlanta, GA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+O2 Academy Birmingham,"Birmingham, UK",Theater,True,LN operated (Academy Music Group),High,Listed on en.wikipedia.org as LN operated (Academy Music Group); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+Orpheum Theatre,"Los Angeles, CA",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Orpheum Theatre presented by Citizens,"Boston, MA",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Stade de France,"Paris, FR",Stadium,False,Third-party,High,Seed list third-party entry: State-owned via Consortium Stade de France.,seed_known_venues.yaml,,2026-04-16
+The Belasco,"Los Angeles, CA",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Pavilion at Toyota Music Factory,"Dallas, TX",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+AFAS Live,"Amsterdam, Netherlands",Club,True,LN operated (venue owned by Government of Amsterdam),High,Listed on en.wikipedia.org as LN operated (venue owned by Government of Amsterdam); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/AFAS_Live,,2026-04-16
+Aragon Ballroom,"Chicago, IL",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Estadio GNP,"Mexico City, Mexico",Stadium,True,OCESA operated (LN 75%),High,Seed list entry — treated as human-verified ground truth per task brief (OCESA operated (LN 75%)).,seed_known_venues.yaml,,2026-04-16
+First Financial Credit Union Amphitheater,"Albuquerque, NM",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Las Vegas, NV",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues Cleveland,"Cleveland, OH",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+MEO Arena,"Lisbon, PT",Arena,True,LN owned (acquired 2024),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (acquired 2024)).,seed_known_venues.yaml,,2026-04-16
+Nissan Stadium,"Nashville, TN",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Tennessee Titans.,seed_known_venues.yaml,,2026-04-16
+O2 Arena,"Prague, CZ",Arena,False,Third-party,High,Seed list third-party entry: AEG-owned London arena.,seed_known_venues.yaml,,2026-04-16
+Saint Louis Music Park,"Maryland Heights, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Soldier Field,"Chicago, IL",Stadium,False,Third-party,High,Seed list third-party entry: Owned by City of Chicago.,seed_known_venues.yaml,,2026-04-16
+Sun Bowl Stadium,"El Paso, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by UTEP.,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"San Francisco, CA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Charlotte, NC",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Silver Spring, MD",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Philadelphia, PA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Alamodome,"San Antonio, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by City of San Antonio.,seed_known_venues.yaml,,2026-04-16
+American Family Insurance Amphitheater,"Milwaukee, WI",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+BECU Live at Northern Quest,"Airway Heights, WA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Caesars Superdome,"New Orleans, LA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by State of Louisiana.,seed_known_venues.yaml,,2026-04-16
+Gillette Stadium,"Foxborough, MA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Kraft Sports / Patriots.,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Boston, MA",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"San Diego, CA",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Orlando, FL",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues Houston,"Houston, TX",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Irving Plaza,"New York, NY",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Kia Forum,"Inglewood, CA",Arena,False,Third-party,High,Seed list third-party entry: Kroenke.,seed_known_venues.yaml,,2026-04-16
+Mercedes-Benz Stadium,"Atlanta, GA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by AMB Group / Falcons.,seed_known_venues.yaml,,2026-04-16
+O2 Victoria Warehouse,"Manchester, UK",Club,True,LN operated (Academy Music Group),High,Listed on en.wikipedia.org as LN operated (Academy Music Group); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+Paramount Theatre,"Denver, CO",Theater,False,Third-party,High,Seed list third-party entry: Seattle Theatre Group owns/operates (non-profit); Wilson Center Paramount Theatre Aurora is separate.,seed_known_venues.yaml,,2026-04-16
+Smart Financial Centre at Sugar Land,"Sugar Land, TX",Theater,False,Third-party,High,Seed list third-party entry: Owned by City of Sugar Land; operated by ASM Global.,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Minneapolis, MN",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"New Orleans, LA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Detroit, MI",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Gramercy Theatre,"New York, NY",Theater,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+U.S. Bank Stadium,"Minneapolis, MN",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Minnesota Sports Facilities Authority.,seed_known_venues.yaml,,2026-04-16
+Veterans United Home Loans Amphitheater,"Virginia Beach, VA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+AT&T Stadium,"Arlington, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Dallas Cowboys.,seed_known_venues.yaml,,2026-04-16
+Auditorio Nacional,"CDMX, Mexico",Theater,True,OCESA operated (LN 75%),High,Listed on news.pollstar.com as OCESA operated (LN 75%); bulk-extracted from canonical source.,https://news.pollstar.com/2024/01/11/ocesa-chief-recaps-foro-sols-big-year/,,2026-04-16
+Brooklyn Paramount,"New York, NY",Theater,True,LN operated (reopened 2024),High,Seed list entry — treated as human-verified ground truth per task brief (LN operated (reopened 2024)).,seed_known_venues.yaml,,2026-04-16
+Fillmore Miami Beach At Jackie Gleason Theatre,"Miami, FL",Theater,True,LN operated (venue owned by Greater Miami Convention & Visitors Bureau),High,Listed on en.wikipedia.org as LN operated (venue owned by Greater Miami Convention & Visitors Bureau); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Fillmore_Miami_Beach,,2026-04-16
+Fillmore New Orleans,"New Orleans, LA",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Freedom Mortgage Pavilion,"Philadelphia, PA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Hard Rock Stadium,"Miami, FL",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Stephen Ross / Dolphins.,seed_known_venues.yaml,,2026-04-16
+Hollywood Bowl,"Hollywood, CA",Amphitheater,False,Third-party,High,Seed list third-party entry: Owned by County of Los Angeles.,seed_known_venues.yaml,,2026-04-16
+Hollywood Casino Amphitheater,"Maryland Heights, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Buena Vista, FL",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"Lake Buena Vista, FL",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"New Orleans, LA",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues Dallas,"Dallas, TX",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+House of Blues Myrtle Beach,"North Myrtle Beach, SC",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+House of Blues Orlando,"Orlando, FL",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+Huntington Bank Field,"Cleveland, OH",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Cleveland Browns.,seed_known_venues.yaml,,2026-04-16
+Levi’s Stadium,"Santa Clara, CA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Santa Clara Stadium Authority / 49ers.,seed_known_venues.yaml,,2026-04-16
+Massey Hall,"Toronto, ON, Canada",Theater,False,Third-party,High,Seed list third-party entry: Corporation of Massey Hall and Roy Thomson Hall — non-profit.,seed_known_venues.yaml,,2026-04-16
+Morton Amphitheater,"Riverside, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Northwest Stadium,"Washington, DC",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Washington Commanders.,seed_known_venues.yaml,,2026-04-16
+NRG Stadium,"Houston, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Harris County Sports & Convention Corp.,seed_known_venues.yaml,,2026-04-16
+O2 Academy Glasgow,"Glasgow, UK",Theater,True,LN operated (Academy Music Group),High,Listed on en.wikipedia.org as LN operated (Academy Music Group); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+Orpheum Theatre,"Memphis, TN",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Orpheum Theatre,"Minneapolis, MN",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Paramount Theatre,"Oakland, CA",Theater,False,Third-party,High,Seed list third-party entry: Seattle Theatre Group owns/operates (non-profit); Wilson Center Paramount Theatre Aurora is separate.,seed_known_venues.yaml,,2026-04-16
+Protective Stadium,"Birmingham, AL",Stadium,False,Third-party,High,Seed list third-party entry: Owned by BJCC Birmingham.,seed_known_venues.yaml,,2026-04-16
+Red Rocks Amphitheatre,"Denver, CO",Amphitheater,False,Third-party,High,Seed list third-party entry: Owned by City of Denver.,seed_known_venues.yaml,,2026-04-16
+Royal Arena,"Copenhagen, Denmark",Arena,True,LN owned (acquired Dec 2025),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (acquired Dec 2025)).,seed_known_venues.yaml,,2026-04-16
+Ruoff Music Center,"Indianapolis, IN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Save Mart Center,"Fresno, CA",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+SoFi Stadium,"Inglewood, CA",Stadium,False,Third-party,High,Seed list third-party entry: Kroenke Sports & Entertainment; ASM Global operated.,seed_known_venues.yaml,,2026-04-16
+State Farm Stadium,"Glendale, AZ",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Arizona Cardinals stadium district.,seed_known_venues.yaml,,2026-04-16
+The Dome at America’s Center,"St. Louis, MO",Stadium,False,Third-party,High,Seed list third-party entry: Owned by St. Louis Regional Convention Authority.,seed_known_venues.yaml,,2026-04-16
+3Arena,"Stockholm, SE",Arena,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Alamodome,"2026 San Antonio, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by City of San Antonio.,seed_known_venues.yaml,,2026-04-16
+Allegiant Stadium,"2026 Las Vegas, NV",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Las Vegas Stadium Authority; ASM Global operated.,seed_known_venues.yaml,,2026-04-16
+Arizona Financial,"Phoenix, AZ",Theater,True,LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007),High,Listed on en.wikipedia.org as LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Arizona_Financial_Theatre,,2026-04-16
+Arizona Financial Theatre,"Phoenix, AZ, USA",Theater,True,LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007),High,Listed on en.wikipedia.org as LN operated (co-operator with Phoenix Downtown Theatre LLC since 2007); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Arizona_Financial_Theatre,,2026-04-16
+AT&T Stadium,"Dallas, TX",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Dallas Cowboys.,seed_known_venues.yaml,,2026-04-16
+Ball Arena,"Denver, Colorado",Arena,False,Third-party,High,Seed list third-party entry: Owned by Kroenke Sports & Entertainment.,seed_known_venues.yaml,,2026-04-16
+Barclays Center,"Brooklyn, New York",Arena,False,Third-party,High,Seed list third-party entry: Owned by BSE Global / Nets.,seed_known_venues.yaml,,2026-04-16
+Barclays Center,"New York, NY",Arena,False,Third-party,High,Seed list third-party entry: Owned by BSE Global / Nets.,seed_known_venues.yaml,,2026-04-16
+Bell Centre,"Montreal, Quebec",Arena,False,Third-party,High,Seed list third-party entry: Owned by Groupe CH / Canadiens.,seed_known_venues.yaml,,2026-04-16
+Blossom Music Center,"Cuyahoga, OH",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Blossom Music Center,"Cleveland, OH",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Chase Center,"San Francisco, California",Arena,False,Third-party,High,Seed list third-party entry: Owned by Warriors.,seed_known_venues.yaml,,2026-04-16
+Climate Pledge Arena,"Seattle, Washington",Arena,False,Third-party,High,Seed list third-party entry: OVG operated; Kraken/Climate Pledge owned.,seed_known_venues.yaml,,2026-04-16
+Coca Cola Coliseum,"Toronto, ON, CAN",Arena,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+Coca-Cola Amp,"Birmingham, AL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Credit Union 1 Amphitheatre,"2026 Tinley Park, IL",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Darien Lake Amphitheater,"Buffalo, NY",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Empower Field at Mile High,"Denver, CO",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Denver Broncos.,seed_known_venues.yaml,,2026-04-16
+Eventim Apollo,"London, England",Theater,False,Third-party,High,Seed list third-party entry: AEG Presents + CTS Eventim jointly acquired May 2012 (Wikipedia).,seed_known_venues.yaml,,2026-04-16
+Fillmore Auditorium,"Denver, CO, USA",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Fox Theatre,"Oakland, CA",Theater,False,Third-party,High,Seed list third-party entry: Owned by Olympia Entertainment (Ilitch); operated by 313 Presents (Detroit location).,seed_known_venues.yaml,,2026-04-16
+Fox Theatre Detroit,"Detroit, MI",Theater,False,Third-party,High,Seed list third-party entry: Owned by Olympia Entertainment (Ilitch); operated by 313 Presents.,seed_known_venues.yaml,,2026-04-16
+Gillette Stadium,"Boston, MA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Kraft Sports / Patriots.,seed_known_venues.yaml,,2026-04-16
+Glen Helen Amphitheater,"San Bernardino, CA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Greek Theatre,"Los Angeles, CA, USA",Amphitheater,False,Third-party,High,Seed list third-party entry: City of LA / Nederlander.,seed_known_venues.yaml,,2026-04-16
+Hammersmith Apollo,"London, UK",Theater,False,Third-party,High,Seed list third-party entry: Same as Eventim Apollo.,seed_known_venues.yaml,,2026-04-16
+Hersheypark Stadium,"2026 Hershey, PA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Hershey Entertainment & Resorts.,seed_known_venues.yaml,,2026-04-16
+Hollywood Casino Amphitheater,"St Louis, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Hollywood Casino Amphitheater,"Saint Louis, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+House of Blues,"North Myrtle Beach, SC",Club,True,LN owned (brand-wide),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (brand-wide)).,seed_known_venues.yaml,,2026-04-16
+House of Blues Boston,"Boston, MA",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+House of Blues New Orleans,"New Orleans, LA",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+House of Blues Orlando,"Lake Buena Vista, FL",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+House of Blues San Diego,"San Diego, CA",Club,True,LN owned,High,Seed list entry — treated as human-verified ground truth per task brief (LN owned).,seed_known_venues.yaml,,2026-04-16
+JMA Wireless Dome,"Syracuse, NY",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Syracuse University.,seed_known_venues.yaml,,2026-04-16
+Kia Center,"Orlando, Florida",Arena,False,Third-party,High,Seed list third-party entry: Owned by City of Orlando; Magic operated.,seed_known_venues.yaml,,2026-04-16
+La Defense Arena,"Paris, France",Arena,True,LN owned (acquired Jan 2026),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (acquired Jan 2026)).,seed_known_venues.yaml,,2026-04-16
+Lakewood Amphitheater,"Atlanta, GA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Levi’s Stadium,"San Francisco, CA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Santa Clara Stadium Authority / 49ers.,seed_known_venues.yaml,,2026-04-16
+Lincoln Financial Field,"Philadelphia, PA",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Eagles.,seed_known_venues.yaml,,2026-04-16
+MEO Arena,"Lisbon, Portugal",Arena,True,LN owned (acquired 2024),High,Seed list entry — treated as human-verified ground truth per task brief (LN owned (acquired 2024)).,seed_known_venues.yaml,,2026-04-16
+MetLife Stadium,"2026 East Rutherford, NJ",Stadium,False,Third-party,High,Seed list third-party entry: Giants/Jets.,seed_known_venues.yaml,,2026-04-16
+MGM Music Hall at Fenway,"Boston, MA, USA",Theater,True,LN/Fenway JV,High,Seed list entry — treated as human-verified ground truth per task brief (LN/Fenway JV).,seed_known_venues.yaml,,2026-04-16
+Moody Center,"Austin, Texas",Arena,False,Third-party,High,Seed list third-party entry: OVG operated; UT Austin owned.,seed_known_venues.yaml,,2026-04-16
+Morton Amphitheater,"2026 Kansas City, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Mystic Lake Amphitheater,"2026 Shakopee, MN",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Northwest Stadium,"Landover, MD",Stadium,False,Third-party,High,Seed list third-party entry: Owned by Washington Commanders.,seed_known_venues.yaml,,2026-04-16
+O2 Apollo Manchester,"Manchester, UK",Theater,True,LN operated (Academy Music Group — partner),High,Listed on en.wikipedia.org as LN operated (Academy Music Group — partner); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+O2 Arena,"Prague, Czech Republic",Arena,False,Third-party,High,Seed list third-party entry: AEG-owned London arena.,seed_known_venues.yaml,,2026-04-16
+O2 Ritz Manchester,"Manchester, UK",Club,True,LN operated (Academy Music Group),High,Listed on en.wikipedia.org as LN operated (Academy Music Group); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/Academy_Music_Group,,2026-04-16
+Orpheum Theatre,"San Francisco, CA",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Orpheum Theatre,"New Orleans, LA",Theater,True,LN owned (via Frank Productions subsidiary),High,Listed on en.wikipedia.org as LN owned (via Frank Productions subsidiary); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Sylvee,,2026-04-16
+Palacio de los Deportes,"Mexico City, Mexico",Arena,True,OCESA operated (LN 75%),High,Listed on news.pollstar.com as OCESA operated (LN 75%); bulk-extracted from canonical source.,https://news.pollstar.com/2024/01/11/ocesa-chief-recaps-foro-sols-big-year/,,2026-04-16
+Palacio De Los Deportes,"CDMX, MX",Arena,True,OCESA operated (LN 75%),High,Listed on news.pollstar.com as OCESA operated (LN 75%); bulk-extracted from canonical source.,https://news.pollstar.com/2024/01/11/ocesa-chief-recaps-foro-sols-big-year/,,2026-04-16
+Pine Knob Music Theatre,"Clarkson, MI",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Radio City Music Hall,"New York, NY, USA",Theater,False,Third-party,High,Seed list third-party entry: Owned by MSG Entertainment.,seed_known_venues.yaml,,2026-04-16
+Rogers Stadium,"2026 Toronto, ON",Stadium,True,LN Canada operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN Canada operated).,seed_known_venues.yaml,,2026-04-16
+RV Inn Style Resorts Amphitheater,"Ridgefield, WA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Ryman Auditorium,"Nashville, TN, USA",Theater,False,Third-party,High,Seed list third-party entry: Owned and operated by Ryman Hospitality Properties / Opry Entertainment Group.,seed_known_venues.yaml,,2026-04-16
+Saint Louis Music Park,"St. Louis, MO",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Saratoga Performing Arts Center,"2026 Saratoga Springs, NY",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Saratoga Performing Arts Center,"Saratoga, NY",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Scotiabank Arena,"Toronto, Ontario",Arena,False,Third-party,High,Seed list third-party entry: Owned by MLSE.,seed_known_venues.yaml,,2026-04-16
+Shoreline Amphitheatre,"Mountainview, CA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Skyline Stage at Highmark Mann,"Philadelphia, PA",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+State Farm Arena,"Atlanta, Georgia",Arena,False,Third-party,High,Seed list third-party entry: Owned by Atlanta Hawks.,seed_known_venues.yaml,,2026-04-16
+TD Garden,"Boston, Massachusetts",Arena,False,Third-party,High,Seed list third-party entry: Owned by Delaware North / Bruins.,seed_known_venues.yaml,,2026-04-16
+The Anthem,"Washington, DC, USA",Club,False,Third-party,High,"Seed list third-party entry: IMP operated, not LN.",seed_known_venues.yaml,,2026-04-16
+The Fillmore,"Denver, CO",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Fillmore Miami Beach,"Miami, FL",Club,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+The Met Presented by Highmark,"Philadelphia, PA, USA",Theater,True,LN operated (under lease from Eric Blumenfeld),High,Listed on en.wikipedia.org as LN operated (under lease from Eric Blumenfeld); bulk-extracted from canonical source.,https://en.wikipedia.org/wiki/The_Met_Philadelphia,,2026-04-16
+The O2,"London, United Kingdom",Arena,False,Third-party,High,Seed list third-party entry: Owned by AEG.,seed_known_venues.yaml,,2026-04-16
+Toyota Music Factory,"Dallas, TX",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+United Center,"Chicago, Illinois",Arena,False,Third-party,High,Seed list third-party entry: Owned by Bulls/Blackhawks JV.,seed_known_venues.yaml,,2026-04-16
+Walmart AMP,"Rogers, AZ",Amphitheater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+Wembley Stadium,"London, UK",Stadium,False,Third-party,High,Seed list third-party entry: Owned by The FA / Wembley National Stadium Ltd.,seed_known_venues.yaml,,2026-04-16
+Xfinity Theatre,"Hartford, CT",Theater,True,LN operated,High,Seed list entry — treated as human-verified ground truth per task brief (LN operated).,seed_known_venues.yaml,,2026-04-16
+YouTube Theater,"Los Angeles, CA, USA",Theater,False,Third-party,High,Seed list third-party entry: Part of SoFi Stadium / Hollywood Park complex; operated by ASM Global / Kroenke.,seed_known_venues.yaml,,2026-04-16
